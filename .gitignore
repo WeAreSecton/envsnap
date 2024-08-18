@@ -1,0 +1,11 @@
+# envsnap
+.envsnap
+# logs
+logs
+*.log
+npm-debug.log*
+# dependencies
+node_modules/
+jspm_packages/
+# npm
+.npm

@@ -1,0 +1,29 @@
+{
+  "name": "envsnap",
+  "version": "1.0.0",
+  "description": "Switch between environments in one command.",
+  "main": "index.js",
+  "bin": {
+    "envsnap": "./index.js"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "author": "WeAreSecton",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WeAreSecton/envsnap.git"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^12.1.0",
+    "dotenv": "^16.4.5",
+    "fs-extra": "^11.2.0",
+    "ora": "^5.4.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
