@@ -1,10 +1,10 @@
 {
   "name": "envsnap",
   "version": "1.0.0",
-  "description": "Switch between environments in one command.",
+  "description": "Switch between environments in a single command.",
   "main": "index.js",
   "bin": {
-    "envsnap": "./index.js"
+    "envsnap": "index.js"
   },
   "scripts": {
     "test": "jest",
@@ -14,7 +14,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/WeAreSecton/envsnap.git"
+    "url": "git+https://github.com/WeAreSecton/envsnap.git"
   },
   "dependencies": {
     "chalk": "^4.1.2",
