@@ -9,7 +9,7 @@
   <a href="https://github.com/WeAreSecton/envsnap/issues">
     <img src="https://img.shields.io/github/issues/WeAreSecton/envsnap" alt="Issues" />
   </a>
-  <a href="https://github.com/WeAreSecton/envsnap/blob/main/LICENSE">
+  <a href="https://github.com/WeAreSecton/envsnap/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/WeAreSecton/envsnap" alt="License" />
   </a>
 </p>
@@ -64,6 +64,6 @@ npx envsnap list
 ```
 
 ## License
-**envsnap** is licensed under the MIT License. See the <a href="https://github.com/WeAreSecton/envsnap/blob/main/LICENSE">LICENSE</a> file for more information.
+**envsnap** is licensed under the MIT License. See the <a href="https://github.com/WeAreSecton/envsnap/blob/master/LICENSE">LICENSE</a> file for more information.
 
 ###### Thank you for using envsnap! We hope it makes managing your environment configurations a breeze.
